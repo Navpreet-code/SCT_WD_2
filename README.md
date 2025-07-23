@@ -19,7 +19,6 @@
 ## ✨ My Approach & Enhancements (Extra Effort)
 
 > I went beyond basic requirements to deliver a fully polished calculator application:
-
 ✅ Fully responsive design using CSS Flex & Grid
 ✅ Built a clean and modern UI using Bootstrap + Google Fonts
 ✅ Added glowing calculator title and hover effects
